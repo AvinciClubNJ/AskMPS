@@ -1,0 +1,4 @@
+.vscode/
+*.dist-info
+bs4/
+ask-sdk/
