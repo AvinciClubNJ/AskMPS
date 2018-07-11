@@ -1,4 +1,5 @@
 .vscode/
 *.dist-info
+*.pyc
 bs4/
 ask-sdk/
