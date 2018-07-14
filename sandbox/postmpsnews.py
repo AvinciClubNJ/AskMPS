@@ -12,6 +12,7 @@ import time
 #   news - a list of mpsweb.News
 def postMPSNews(httpEndPoint, newsList):
     # Massage news list to a list of dictionaries according
+    # to Alexa flash briefing format requirements
     postNewsList = []
     for news in newsList:
         postNews = {}
