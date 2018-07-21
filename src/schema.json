@@ -1,0 +1,57 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "marlboro public school",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MPSNews",
+                    "slots": [],
+                    "samples": [
+                        "any news",
+                        "news",
+                        "Latest news",
+                        "What's happenning",
+                        "What's going on",
+                        "What's up in marlboro public schools",
+                        "Tell me the news"
+                    ]
+                },
+                {
+                    "name": "MPSEvents",
+                    "slots": [],
+                    "samples": [
+                        "events",
+                        "upcomming events",
+                        "What's the events",
+                        "What's the upcomming events in marlboro public school"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
